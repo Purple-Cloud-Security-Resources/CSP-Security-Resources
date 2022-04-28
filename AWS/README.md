@@ -53,7 +53,7 @@
 [AWS Security Control Mappings to MITRE Att&CK](https://center-for-threat-informed-defense.github.io/security-stack-mappings/AWS/README.html) : Maps threats to specific AWS Services<br>
 [AWS SDK](https://aws.amazon.com/tools/) : SDK for AWS Development Documentation <br>
 [AWS CLI](https://aws.amazon.com/cli/) : AWS CLI Documentation <br>
-[AWS Service Mapping to NIST Framework](/Code/NIST_Framework_Mapping.md) : AWS Services with Documentation Links mapped to NIST<br>
+[AWS Service Mapping to NIST Framework](/AWS/Code/NIST_Framework_Mapping.md) : AWS Services with Documentation Links mapped to NIST<br>
 
 ## 📚 Research
 [RhinoSecurityLabs Blog](https://rhinosecuritylabs.com/blog/?category=aws) : Blog Search for RhinoSecurityLabs with an AWS Tag
