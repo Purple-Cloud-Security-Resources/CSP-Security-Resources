@@ -6,7 +6,7 @@
 ## 🗺️ AWS Security Architecture References
 [AWS Security Foundations](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/foundations.html) : Discusses AWS Security Reference Architecture and how to deploy security into AWS Accounts<br>
 [AWS Cloud Adoption Framework](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/welcome.html) : Framework for Cloud Adoption Journey for AWS<br>
-[AWS Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-framework.pdf) : AWS Best Practices for designing and operating reliable, secure, efficient, and cost-effective systems in the cloud<br>
+[AWS Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/wellarchitected-framework.pdf) : AWS Best Practices for designing and operating systems in the cloud<br>
 [AWS Shared Responsibility Model](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/shared-responsibility-model.html) : Defines who is responsible for what in the AWS Cloud<br>
 
 ## 🛠️ Service Cheat Sheets
