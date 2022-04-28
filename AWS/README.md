@@ -73,5 +73,5 @@
 [Serverless Goat](https://github.com/OWASP/Serverless-Goat) : Vulnerable Serverless Application <br>
 
 ## 📑 Whitepapers and Webcasts
-[SANS 2021 DFIR Cloud Report](https://www.sans.org/webcasts/a-sans-2021-dfir-cloud-report-partly-cloudy-with-a-bunch-of-dfir-119450/) : SANS Cloud Report 2021  REQUIRES REGISTRATION <br>
-[Aligning to the NIST CSF in the AWS Cloud](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf) : Using NIST CSF in the Cloud <br>
+[SANS 2021 DFIR Cloud Report](https://www.sans.org/webcasts/a-sans-2021-dfir-cloud-report-partly-cloudy-with-a-bunch-of-dfir-119450/) : SANS Cloud Report 2021  REQUIRES REGISTRATION<br>
+[Aligning to the NIST CSF in the AWS Cloud](https://d0.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf) : Using NIST CSF in the Cloud<br>
