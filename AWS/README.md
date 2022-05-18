@@ -54,9 +54,9 @@
 [AWS SDK](https://aws.amazon.com/tools/) : SDK for AWS Development Documentation <br>
 [AWS CLI](https://aws.amazon.com/cli/) : AWS CLI Documentation <br>
 [AWS Service Mapping to NIST Framework](/AWS/Code/NIST_Framework_Mapping.md) : AWS Services with Documentation Links mapped to NIST<br>
-[AWS Audit Manager Supported Frameworks](https://docs.aws.amazon.com/audit-manager/latest/userguide/framework-overviews.html) : Utilize Industry Benchmarks for AWS Deployment
-[Falco Project Github](https://github.com/falcosecurity/falco/tree/master/rules) : Detection Tool that has predefined Cloudtrail rules
-[Falco Project Docs](https://falco.org/docs/) : Documentation for Falco Open Source Runtime Security Tool
+[AWS Audit Manager Supported Frameworks](https://docs.aws.amazon.com/audit-manager/latest/userguide/framework-overviews.html) : Utilize Industry Benchmarks for AWS Deployment<br>
+[Falco Project Github](https://github.com/falcosecurity/falco/tree/master/rules) : Detection Tool that has predefined Cloudtrail rules<br>
+[Falco Project Docs](https://falco.org/docs/) : Documentation for Falco Open Source Runtime Security Tool<br>
 
 ## 📚 Research
 [RhinoSecurityLabs Blog](https://rhinosecuritylabs.com/blog/?category=aws) : Blog Search for RhinoSecurityLabs with an AWS Tag
