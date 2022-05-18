@@ -1,5 +1,7 @@
 # Azure
 
+## 👷 Under Construction
+
 ## 🗺️ Documentation
 [Azure Documentation](https://github.com/Azure/Azure-Sentinel)<br>
 [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/service-page/list%20a%20-%20z?view=azure-cli-latest)<br>
@@ -13,6 +15,7 @@
 [AZ-500 - Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)<br>
 [MS-500 - Microsoft 365 Certified Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/m365-security-administrator/)<br>
 [SC-900 - Microsoft Security, Compliance, and Identity Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900)<br>
+
 ## 📺 Video Training For Certification
 [Coursera Azure](https://www.coursera.org/courses?query=azure)<br>
 [Udemy Azure](https://www.udemy.com/courses/search/?src=ukw&q=azure)<br>
