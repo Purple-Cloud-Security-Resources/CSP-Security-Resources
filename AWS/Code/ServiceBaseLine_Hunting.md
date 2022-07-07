@@ -9,13 +9,19 @@ This document will go over concepts on how to baseline your CT log activity. It 
 Most services include the following prefixes for their API calls. These include:
 
 Get
+<br>
 List
+<br>
 Describe
+<br>
 Create
+<br>
 Put
+<br>
 Update
+<br>
 Delete
-
+<br>
 
 APIs that make do not make changes to resources or configurations are readOnly. These include Get, List, Describe and etc.
 APIs that make changes to resources or configurations are not readOnly. These include Create, Put, Update, Delete and etc.
